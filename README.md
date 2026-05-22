@@ -3,6 +3,7 @@
 
 ---
 
+<img src="profile.jpg" alt="Cesar Gomez - Professional Profile Picture" style="float: right; margin-left: 20px; width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
 ## 👨‍💻 About Me
 I am a highly motivated tech enthusiast currently pursuing a Bachelor of Applied Science in Cybersecurity at Ensign College. With a robust background in technical support, rapid problem-solving, and bilingual customer service, I specialize in bridging the gap between complex IT infrastructure and user-friendly solutions. I am passionate about data integrity, system administration, and continuous learning.
 
